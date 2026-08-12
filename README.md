@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/profile-loader.gif" alt="Noah Krynicki — Builder, Founder, Developer" width="100%" /></p>
+<p align="center"><img src="assets/profile-live-loop.gif" alt="Noah Krynicki — Builder, Founder, Developer" width="100%" /></p>
 
 ## Hey, I'm Noah.
 
