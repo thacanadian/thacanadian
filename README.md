@@ -10,7 +10,7 @@ Right now I'm building **Apex Aircraft Care**, developing product experiments, a
 
 | Project | What it is | Focus |
 | --- | --- | --- |
-| [FormForge](https://github.com/thacanadian/Formforge) | Mobile-first personal fitness dashboard | React, product design, local-first data |
+| [FormForge](https://github.com/thacanadian/Formforge) | Local-first, multi-user fitness operating system (v1.8.0) | Go, PWA, security, AI coaching |
 | [LeadsAI](https://github.com/thacanadian/LeadsAI) | Cross-platform lead discovery and outreach system | React Native, Electron, TypeScript, APIs |
 | [AeroDetail OS](https://github.com/thacanadian/AeroDetail-OS) | Private aircraft-detailing sales and operations system | Python, JavaScript, SQLite, security |
 | [Neon City](https://github.com/thacanadian/Neon-City) | Browser-based open-world action game | JavaScript, Three.js, game systems |
@@ -20,7 +20,7 @@ Right now I'm building **Apex Aircraft Care**, developing product experiments, a
 
 ### What I work with
 
-`JavaScript` · `TypeScript` · `React` · `React Native` · `Python` · `HTML/CSS` · `Git` · `APIs` · `AI workflows` · `CRM systems`
+`Go` · `JavaScript` · `TypeScript` · `React` · `React Native` · `Python` · `HTML/CSS` · `Git` · `APIs` · `AI workflows` · `CRM systems`
 
 ### Outside the code
 
