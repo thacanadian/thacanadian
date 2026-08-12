@@ -15,6 +15,7 @@ Right now I'm building **Apex Aircraft Care**, developing product experiments, a
 | [AeroDetail OS](https://github.com/thacanadian/AeroDetail-OS) | Private aircraft-detailing sales and operations system | Python, JavaScript, SQLite, security |
 | [Neon City](https://github.com/thacanadian/Neon-City) | Browser-based open-world action game | JavaScript, Three.js, game systems |
 | [Slice-to-Fit](https://github.com/thacanadian/Slice-to-Fit) | Self-contained browser game prototype | Canvas, interaction design, game economy |
+| [Gravity Shift](https://github.com/thacanadian/gravity-shift-game) | Eight-level browser physics puzzle game | JavaScript, Canvas, responsive controls |
 | [Apex Aircraft Care](https://github.com/thacanadian/Apex-Aircraft-Care) | Zero-to-one aviation service venture | Operations, brand, sales systems, research |
 
 ### What I work with
