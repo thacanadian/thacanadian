@@ -11,6 +11,7 @@ Right now I'm building **Apex Aircraft Care**, developing product experiments, a
 | Project | What it is | Focus |
 | --- | --- | --- |
 | [FormForge](https://github.com/thacanadian/Formforge) | Local-first, multi-user fitness operating system (v1.8.0) | Go, PWA, security, AI coaching |
+| [CinePulse](https://github.com/thacanadian/cinepulse) | Adaptive, local-first movie recommendation system | JavaScript, recommendation algorithms, responsive UI |
 | [LeadsAI](https://github.com/thacanadian/LeadsAI) | Cross-platform lead discovery and outreach system | React Native, Electron, TypeScript, APIs |
 | [AeroDetail OS](https://github.com/thacanadian/AeroDetail-OS) | Private aircraft-detailing sales and operations system | Python, JavaScript, SQLite, security |
 | [Neon City](https://github.com/thacanadian/Neon-City) | Browser-based open-world action game | JavaScript, Three.js, game systems |
