@@ -1,8 +1,8 @@
-<p align="center"><img src="assets/profile-banner.svg" alt="Noah Krynicki — Builder, Founder, Developer" width="100%" /></p>
+<p align="center"><img src="assets/profile-loader.gif" alt="Noah Krynicki — Builder, Founder, Developer" width="100%" /></p>
 
 ## Hey, I'm Noah.
 
-I'm an 19-year-old builder from the Dallas–Fort Worth area. I like taking rough ideas and turning them into useful software, thoughtful systems, and real businesses.
+I'm a 19-year-old builder from the Dallas–Fort Worth area. I like taking rough ideas and turning them into useful software, thoughtful systems, and real businesses.
 
 Right now I'm building **Apex Aircraft Care**, developing product experiments, and learning the parts of software and business that only become obvious once you ship something.
 
