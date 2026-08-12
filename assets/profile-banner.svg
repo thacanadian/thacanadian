@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Noah Krynicki — Builder, Founder, Developer</title>
+  <desc id="desc">Editorial navy, cream, and gold profile banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c1720"/><stop offset="1" stop-color="#203747"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#d7c08c" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M70 73h1060M70 286h1060" stroke="#d7c08c" stroke-opacity=".35"/>
+  <text x="70" y="56" fill="#d7c08c" font-family="Arial" font-size="12" letter-spacing="4">DFW, TEXAS / EST. 2007</text>
+  <text x="70" y="172" fill="#f1ede2" font-family="Georgia, serif" font-size="68" letter-spacing="-2">NOAH KRYNICKI</text>
+  <text x="73" y="217" fill="#d7c08c" font-family="Arial" font-size="16" letter-spacing="5">BUILDER · FOUNDER · DEVELOPER</text>
+  <text x="70" y="325" fill="#98a8b3" font-family="Arial" font-size="12" letter-spacing="2">SOFTWARE / SYSTEMS / BUSINESS</text>
+  <g transform="translate(980 118)"><rect width="118" height="118" rx="4" fill="none" stroke="#d7c08c" stroke-width="2"/><path d="M24 91V27l39 64V27M63 63l31-36M73 52l23 39" fill="none" stroke="#f1ede2" stroke-width="5"/></g>
+</svg>
