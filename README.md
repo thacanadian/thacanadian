@@ -2,7 +2,7 @@
 
 ## Hey, I'm Noah.
 
-I'm an 18-year-old builder from the Dallas–Fort Worth area. I like taking rough ideas and turning them into useful software, thoughtful systems, and real businesses.
+I'm an 19-year-old builder from the Dallas–Fort Worth area. I like taking rough ideas and turning them into useful software, thoughtful systems, and real businesses.
 
 Right now I'm building **Apex Aircraft Care**, developing product experiments, and learning the parts of software and business that only become obvious once you ship something.
 
