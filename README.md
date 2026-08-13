@@ -6,6 +6,8 @@ I'm a software and product builder from the Dallas–Fort Worth area working acr
 
 Right now I'm building **FormForge** as founder/software developer with a private beta of **20+ testers**, developing **AeroOps** as a production-style aviation backend project, and building **Apex Aircraft Care**. I'm pursuing a **Bachelor of Business Administration at Western Governors University (WGU), expected May 2028**, and completing the requirements for **Texas Real Estate Sales Agent licensing**.
 
+**[View my live portfolio](https://noahkrynicki-portfolio-noahwkry-5549s-projects.vercel.app)** · [Project archive](https://noahkrynicki-portfolio-noahwkry-5549s-projects.vercel.app/projects) · [LinkedIn](https://www.linkedin.com/in/noah-krynicki-48513b312/)
+
 ### Featured work
 
 | Project | What it is | Focus |
@@ -16,6 +18,14 @@ Right now I'm building **FormForge** as founder/software developer with a privat
 | [LeadsAI](https://github.com/thacanadian/LeadsAI) | Cross-platform lead discovery and outreach tooling | TypeScript, APIs, automation, web scraping |
 | Minecraft Systems | Java Edition mods/plugins with custom gameplay systems | Java, Fabric, Spigot/Paper, world-state and acoustic systems |
 | [Apex Aircraft Care](https://github.com/thacanadian/Apex-Aircraft-Care) | Zero-to-one DFW aviation-service venture | operations, CRM, automation, sales systems |
+
+### More builds
+
+- [AeroDetail OS](https://github.com/thacanadian/AeroDetail-OS) — aviation CRM, quoting, jobs, QC, client records, and operating workflows.
+- [Gravity Shift](https://github.com/thacanadian/gravity-shift-game) — directional-gravity browser puzzle with progression and responsive controls.
+- [Neon City](https://github.com/thacanadian/Neon-City) — open-world browser game systems experiment with driving, missions, police heat, and progression.
+- [Slice-to-Fit](https://github.com/thacanadian/Slice-to-Fit) — touch-friendly slicing/physics game prototype.
+- Independent startup web work — code, UI/design, analytics, SEO, API integrations, deployment support, and maintenance for 2–3 early-stage ventures.
 
 ### Technical stack
 
@@ -42,6 +52,6 @@ I'm open to internships and early-career opportunities across **software develop
 
 ### Connect
 
-[Portfolio source](https://github.com/thacanadian/portfolio) · [LinkedIn](https://www.linkedin.com/in/noah-krynicki-48513b312/) · [Email](mailto:noahwkry@gmail.com)
+[Live portfolio](https://noahkrynicki-portfolio-noahwkry-5549s-projects.vercel.app) · [Portfolio source](https://github.com/thacanadian/portfolio) · [LinkedIn](https://www.linkedin.com/in/noah-krynicki-48513b312/) · [Email](mailto:noahwkry@gmail.com)
 
 <sub>Public claims use real project status and verified metrics. Private customer data, credentials, internal pricing, and proprietary operating material stay private.</sub>
