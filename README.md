@@ -2,36 +2,40 @@
 
 ## Hey, I'm Noah.
 
-I'm a builder from the Dallas–Fort Worth area. I like taking rough ideas and turning them into useful software, thoughtful systems, and real businesses.
+I'm a builder from the Dallas–Fort Worth area working across software, operations, customer systems, and business development. I like taking rough ideas and turning them into useful products, documented workflows, and real businesses.
 
-Right now I'm building **Apex Aircraft Care**, developing product experiments, and learning the parts of software and business that only become obvious once you ship something.
+Right now I'm building **FormForge**, running a private beta with **20+ testers**, and developing **Apex Aircraft Care** while completing a **Bachelor of Business Administration at Western Governors University (WGU), expected May 2028**. I'm also completing the requirements for **Texas Real Estate Sales Agent licensing**.
 
 ### Featured work
 
 | Project | What it is | Focus |
 | --- | --- | --- |
-| [FormForge](https://github.com/thacanadian/Formforge) | Local-first, multi-user fitness operating system (v1.8.0) | Go, PWA, security, AI coaching |
+| [FormForge](https://github.com/thacanadian/Formforge) | Privacy-focused, local-first, multi-user fitness operating system (v1.8.0) with 20+ beta testers | Go, PWA, security, AI coaching, product validation |
 | [CinePulse](https://github.com/thacanadian/cinepulse) | Adaptive, local-first movie recommendation system | JavaScript, recommendation algorithms, responsive UI |
 | [LeadsAI](https://github.com/thacanadian/LeadsAI) | Cross-platform lead discovery and outreach system | React Native, Electron, TypeScript, APIs |
-| [AeroDetail OS](https://github.com/thacanadian/AeroDetail-OS) | Private aircraft-detailing sales and operations system | Python, JavaScript, SQLite, security |
-| [Neon City](https://github.com/thacanadian/Neon-City) | Browser-based open-world action game | JavaScript, Three.js, game systems |
-| [Slice-to-Fit](https://github.com/thacanadian/Slice-to-Fit) | Self-contained browser game prototype | Canvas, interaction design, game economy |
+| [AeroDetail OS](https://github.com/thacanadian/AeroDetail-OS) | Aircraft-detailing sales and operations system | Python, JavaScript, SQLite, security |
 | [Gravity Shift](https://github.com/thacanadian/gravity-shift-game) | Eight-level browser physics puzzle game | JavaScript, Canvas, responsive controls |
-| [Apex Aircraft Care](https://github.com/thacanadian/Apex-Aircraft-Care) | Zero-to-one aviation service venture | Operations, brand, sales systems, research |
+| [Apex Aircraft Care](https://github.com/thacanadian/Apex-Aircraft-Care) | Zero-to-one DFW aviation-service venture | Operations, brand, CRM, sales systems, research |
 
 ### What I work with
 
-`Go` · `JavaScript` · `TypeScript` · `React` · `React Native` · `Python` · `HTML/CSS` · `Git` · `APIs` · `AI workflows` · `CRM systems`
+`Go` · `JavaScript` · `TypeScript` · `React` · `React Native` · `Python` · `HTML/CSS` · `Git/GitHub` · `PWA` · `APIs` · `AI workflows` · `CRM systems` · `Product documentation`
 
-### Outside the code
+### Experience beyond code
 
-- Founder of Apex Aircraft Care
-- Service-operations manager and trainer
+- Founder, Apex Aircraft Care (pre-launch venture)
+- Manager in high-volume service operations; lead teams of 4–7
+- Former Trainer at Raising Cane's; onboarded 20+ teammates
 - Led group teaching for 50+ students
-- Experience across theater, live production, music, and technical systems
+- Bachelor of Business Administration, WGU — expected May 2028
+- Texas Real Estate Sales Agent licensing — in progress
+
+### Current focus
+
+I'm open to internships and early-career roles across **product, technical operations, implementation, customer success, business systems, and software-adjacent work** where initiative, communication, and systems thinking matter.
 
 ### Connect
 
 [Portfolio source](https://github.com/thacanadian/portfolio) · [LinkedIn](https://www.linkedin.com/in/noah-krynicki-48513b312/) · [Email](mailto:noahwkry@gmail.com)
 
-<sub>I share honest project status and keep customer data, credentials, internal pricing, and proprietary operating material private.</sub>
+<sub>I use verified metrics and honest project status. Customer data, credentials, internal pricing, and proprietary operating material stay private.</sub>
